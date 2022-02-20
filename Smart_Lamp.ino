@@ -1,4 +1,4 @@
-//ANIMATED DINOSAUR PIXEL PANEL / SMART LAMP                                    Orlando Azuara, Xezel Peshlakai, Gabriel Salas, Michael Moran Bojorquez
+//ANIMATED DINOSAUR PIXEL PANEL / SMART LAMP                                   Created by Orlando Azuara
 
 #include "FastLED.h"
 
